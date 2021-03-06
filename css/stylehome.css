@@ -2,7 +2,13 @@ body  {
     /*
     background-color: #FCAF17;
     */
+    background: url("../imagens/fundo_home.jpg") no-repeat right top fixed;
+    background-size: 100% 100%;;
     
+}
+
+.form {
+    opacity: 0.8;
 }
 
 /*
